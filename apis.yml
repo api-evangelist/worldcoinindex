@@ -1,0 +1,32 @@
+aid: worldcoinindex
+name: WorldCoinIndex
+description: "Cryptocurrencies Prices"
+url: https://www.worldcoinindex.com/apiservice
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: WorldCoinIndex
+    description: "Cryptocurrencies Prices"
+    humanURL: https://www.worldcoinindex.com/apiservice
+    baseURL: https://www.worldcoinindex.com/apiservice
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://www.worldcoinindex.com/apiservice
+common:
+  - type: Website
+    url: https://www.worldcoinindex.com/apiservice
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
