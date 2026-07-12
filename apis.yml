@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://www.worldcoinindex.com/apiservice
 common:
+  - type: VulnerabilityDisclosure
+    url: security/worldcoinindex-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/worldcoinindex-domain-security.yml
   - type: Website
     url: https://www.worldcoinindex.com/apiservice
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.worldcoinindex.com/news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
