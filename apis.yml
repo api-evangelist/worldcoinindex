@@ -39,7 +39,6 @@ apis:
   - name: WorldCoinIndex
     description: "Cryptocurrencies Prices"
     humanURL: https://www.worldcoinindex.com/apiservice
-    baseURL: https://www.worldcoinindex.com/apiservice
     tags:
       - Cryptocurrency
     properties:
